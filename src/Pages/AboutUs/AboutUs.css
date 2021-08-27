@@ -1,0 +1,43 @@
+.landingBackground{
+    background-color: #201E38;
+}
+.imgLan{
+    width: 16%;
+    margin-left: 10%;
+    margin-top: 10%;
+    background-color: #5CDB95;
+    border-radius: 50%;
+}
+.imagesPosition{
+    margin-left: 10%;
+}
+.aboutUsAlignTexts{
+    position: fixed;
+    text-align: center;
+    margin-left: 50%;
+    margin-top: -20%;
+}
+.aboutUsTitle{
+    color: #E3E3E3;
+    font-size: 5vh;
+}
+.aboutUsText{
+    font-size: 5vh;
+    color: #E3E3E3;
+    width: 80%;
+    margin-left: 10%;
+}
+.buttonLan{
+    width: 15%;
+    height: 10%;
+    padding: 1%;
+    margin-top: 18%;
+    margin-left: 40%;
+    position: absolute;
+    font-size: 4.5vh;
+    background-color: #CF0072;
+    border-color: white;
+    border-style: double;
+    border-radius: 1em;
+    color: white;
+}
