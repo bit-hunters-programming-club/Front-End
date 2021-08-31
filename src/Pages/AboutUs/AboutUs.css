@@ -1,40 +1,43 @@
 .landingBackground{
-    background-color: #201E38;
+    width: 100%;
+    height: 100%;
+    position: fixed;
 }
 .imgLan{
-    width: 16%;
+    position: relative;
+    width: 30%;
+    margin-top: 5%;
     margin-left: 10%;
-    margin-top: 10%;
-    background-color: #5CDB95;
-    border-radius: 50%;
 }
 .imagesPosition{
     margin-left: 10%;
 }
 .aboutUsAlignTexts{
-    position: fixed;
+    position: absolute;
     text-align: center;
     margin-left: 50%;
-    margin-top: -20%;
+    margin-top: -33%;
 }
 .aboutUsTitle{
     color: #E3E3E3;
     font-size: 5vh;
+    font-weight: bold;
 }
 .aboutUsText{
     font-size: 5vh;
+    font-weight: bold;
     color: #E3E3E3;
-    width: 80%;
-    margin-left: 10%;
+    width: 70%;
+    margin-left: 15%;
 }
 .buttonLan{
     width: 15%;
     height: 10%;
     padding: 1%;
-    margin-top: 18%;
-    margin-left: 40%;
+    margin-top: 3%;
+    margin-left: 45%;
     position: absolute;
-    font-size: 4.5vh;
+    font-size: 4vh;
     background-color: #CF0072;
     border-color: white;
     border-style: double;
