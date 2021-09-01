@@ -1,0 +1,54 @@
+.container{
+    margin-top: 50px;
+    
+}
+
+.signup__container{
+    background-color: rgb(227, 227, 227);
+    border-radius: 25px;
+    padding-bottom: 10px;
+}
+
+.signup__header{
+    background-color: rgb(128, 122, 191);
+    border-radius: 25px;
+}
+
+.image{
+    padding: 10px;
+    width: 120px;
+    height: 120px;
+}
+
+.header__title{
+    padding-top: 40px;
+}
+
+.form-control{
+    background-color: rgb(32, 30, 56)!important;
+    color:rgb(227, 227, 227)!important;
+    font-size: 25px!important;
+    
+}
+
+.form-group{
+    margin-top: 20px;
+    margin-inline: 50px;
+}
+.form__container{
+    margin-bottom: 30px;
+    margin-top: 35px;
+}
+
+.submit__button{
+    margin-top: 20px;
+    width: 100%;
+    align-self: center;
+    margin-inline: 50px;
+    padding: 15px;
+    background-color: #13D188;
+    border-radius: 10px;
+    color:rgb(32, 30, 56);
+    font-size: 30px;
+    font-weight: bold;
+}
