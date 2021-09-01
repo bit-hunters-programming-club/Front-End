@@ -1,0 +1,53 @@
+:root {
+    
+  }
+
+body{
+    background-color: #201E38;
+}
+.Container {
+    background-color: #E3E3E3;
+    margin-left: 25%;
+    margin-top:3%;
+    height:93%;
+    width:50vw;   
+    position: absolute;
+    border-radius:5%;
+}
+.Form{
+    display:list-inline;
+    justify-content: center;
+    align-items: center;
+}
+
+.Form__Input{
+    margin-left: 8%;
+    margin-top:5%;
+    width:80%;
+    height:150px;
+    background-color:#201E38;
+    border-radius:5vh;
+    padding-left:30px;
+    color:#fff;
+    font-size: 5vh;
+}
+
+.Form__Header{
+    background-color: #807ABF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 300px;
+    border-radius: 10px;
+}
+.Header__Text{
+    margin:auto;
+}
+.User_Icon{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    margin-left: 15%;
+    border-radius: 50px
+}
