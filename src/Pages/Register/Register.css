@@ -7,10 +7,10 @@ body{
 }
 .Container {
     background-color: #E3E3E3;
-    margin-left: 25%;
+    margin-left: 15%;
     margin-top:3%;
-    height:93%;
-    width:50vw;   
+    height: 2000px;
+    width:70vw;   
     position: absolute;
     border-radius:5%;
 }
@@ -22,16 +22,29 @@ body{
 
 .Form__Input{
     margin-left: 8%;
-    margin-top:5%;
+    margin-top:100px;
     width:80%;
     height:150px;
     background-color:#201E38;
-    border-radius:5vh;
+    border-radius:30px;
     padding-left:30px;
     color:#fff;
-    font-size: 5vh;
+    font-size: 100px;
 }
-
+.Form__Input::placeholder{
+    color:#fff;
+}
+.Form__Submit{
+    margin-left: 8%;
+    margin-top:100px;
+    width:83%;
+    height:150px;
+    background-color:#13D188;
+    border-radius:30px;
+    padding-left:30px;
+    color:#201E38;
+    font-size: 100px;
+}
 .Form__Header{
     background-color: #807ABF;
     display: flex;
@@ -43,6 +56,7 @@ body{
 }
 .Header__Text{
     margin:auto;
+    font-size: 100px;
 }
 .User_Icon{
     background-color: white;

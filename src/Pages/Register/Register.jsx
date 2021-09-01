@@ -17,7 +17,8 @@ class Regitser extends React.Component {
                         <input type="email" className="Form__Input" name="email" placeholder="email"/>
                         <input type="password" className="Form__Input" name="password" placeholder="password"/>
                         <input type="password" className="Form__Input" name="password_confirm" placeholder="confirm password"/>
-                	</div>
+                	    <button type="submit" className="Form__Submit">Register</button>
+                    </div>
                 </div>
             </React.Fragment>
         );
