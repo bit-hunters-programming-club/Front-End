@@ -65,3 +65,21 @@ body{
     margin-left: 15%;
     border-radius: 50px
 }
+@media screen and (max-width: 1500px) {
+    .Header__Text{
+        font-size:50px;
+    }
+    .Form__Input{
+        margin-top:50px;
+        font-size: 50px;
+    }
+    .Form__Header{
+        height:220px
+    }
+    .Form__Submit{
+        font-size:70px
+    }
+    .Container{
+        height:1600px
+    }
+  } 
