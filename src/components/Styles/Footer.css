@@ -13,6 +13,7 @@
     color: #807ABF;
     position: absolute;
     font-size: 4vh;
+    font-weight: bold;
     margin-left: 5%;
 }
 .contactInfo{
@@ -21,6 +22,7 @@
     margin-top: 3%;
     margin-left: 2.5%;
     font-size: 2vh;
+    font-weight: bold;
     width: 15%;
 }
 .infoTitle{
@@ -28,6 +30,7 @@
     position: absolute;
     margin-left: 22%;
     font-size: 4vh;
+    font-weight: bold;
 }
 .information{
     color: #E3E3E3;
@@ -36,12 +39,14 @@
     margin-top: 3%;
     margin-left: 20%;
     font-size: 2vh;
+    font-weight: bold;
 }
 .HelpTitle{
     color: #807ABF;
     position: absolute;
     margin-left: 38%;
     font-size: 4vh;
+    font-weight: bold;
 }
 .helpfulLinks{
     color: #E3E3E3;
@@ -50,12 +55,14 @@
     margin-left: 38%;
     margin-top: 3%;
     font-size: 2vh;
+    font-weight: bold;
 }
 .HelpTitle2{
     color: #807ABF;
     position: absolute;
     margin-left: 56%;
     font-size: 4vh;
+    font-weight: bold;
 }
 .helpfulLinks2{
     color: #E3E3E3;
@@ -64,6 +71,7 @@
     margin-left: 56%;
     margin-top: 3%;
     font-size: 2vh;
+    font-weight: bold;
 }
 .googleLogo{
     width: 5%;
