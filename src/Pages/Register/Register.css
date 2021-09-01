@@ -65,21 +65,60 @@ body{
     margin-left: 15%;
     border-radius: 50px
 }
-@media screen and (max-width: 1500px) {
-    .Header__Text{
-        font-size:50px;
+@media screen and (max-width: 2000px) 
+    {
+        .Header__Text{
+            font-size:75px;
+        }
+        .Form__Input{
+            margin-top:75px;
+            font-size: 75px;
+        }
+        .Form__Header{
+            height:280px
+        }
+        .Form__Submit{
+            font-size:100px
+        }
+        .Container{
+            height:2000px
+        }
     }
-    .Form__Input{
-        margin-top:50px;
-        font-size: 50px;
-    }
-    .Form__Header{
-        height:220px
-    }
-    .Form__Submit{
-        font-size:70px
-    }
-    .Container{
-        height:1600px
-    }
-  } 
+@media screen and (max-width: 1500px) 
+    {
+        .Header__Text{
+            font-size:50px;
+        }
+        .Form__Input{
+            margin-top:50px;
+            font-size: 50px;
+        }
+        .Form__Header{
+            height:220px
+        }
+        .Form__Submit{
+            font-size:70px
+        }
+        .Container{
+            height:1600px
+        }
+    } 
+@media screen and (min-width: 2200px) 
+    {
+        .Header__Text{
+            font-size:150px;
+        }
+        .Form__Input{
+            margin-top:150px;
+            font-size:150px;
+        }
+        .Form__Header{
+            height:450px
+        }
+        .Form__Submit{
+            font-size:120px
+        }
+        .Container{
+            height:2500px
+        }
+    } 
