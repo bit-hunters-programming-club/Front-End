@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from "react-router-dom"
 import "./AboutUs.css"
+import Footer from '../../components/Footer';
 
 class Landing extends React.Component {
     render() {
@@ -27,6 +28,7 @@ class Landing extends React.Component {
                         </div>
                     </div>
                 </div>
+                <Footer></Footer>
             </React.Fragment>
         );
     }

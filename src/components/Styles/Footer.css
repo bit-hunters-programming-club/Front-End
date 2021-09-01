@@ -1,0 +1,106 @@
+.footerBack{
+    width: 100%;
+    height: 60%;
+    background-color: #201E38;
+    position: absolute;
+    margin-top: 15%;
+}
+.allColocation{
+    margin-top: 6%;
+    margin-left: 6%;
+}
+.contactTitle{
+    color: #807ABF;
+    position: absolute;
+    font-size: 4vh;
+    margin-left: 5%;
+}
+.contactInfo{
+    color: #E3E3E3;
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 2.5%;
+    font-size: 2vh;
+    width: 15%;
+}
+.infoTitle{
+    color: #807ABF;
+    position: absolute;
+    margin-left: 22%;
+    font-size: 4vh;
+}
+.information{
+    color: #E3E3E3;
+    position: absolute;
+    width: 15%;
+    margin-top: 3%;
+    margin-left: 20%;
+    font-size: 2vh;
+}
+.HelpTitle{
+    color: #807ABF;
+    position: absolute;
+    margin-left: 38%;
+    font-size: 4vh;
+}
+.helpfulLinks{
+    color: #E3E3E3;
+    position: absolute;
+    width: 20%;
+    margin-left: 38%;
+    margin-top: 3%;
+    font-size: 2vh;
+}
+.HelpTitle2{
+    color: #807ABF;
+    position: absolute;
+    margin-left: 56%;
+    font-size: 4vh;
+}
+.helpfulLinks2{
+    color: #E3E3E3;
+    position: absolute;
+    width: 20%;
+    margin-left: 56%;
+    margin-top: 3%;
+    font-size: 2vh;
+}
+.googleLogo{
+    width: 5%;
+    float: right;
+    position: relative;
+    margin-top: -2%;
+    margin-right: 2%;
+}
+.LinkedInLogo{
+    width: 5%;
+    float: right;
+    margin-top: 5.2%;
+    margin-right: -5%;
+}
+.facebookLogo{
+    width: 5%;
+    float: right;
+    margin-top: -2%;
+    margin-right: 10%;
+}
+.facebookLogo2{
+    width: 5%;
+    float: right;
+    margin-top: 5%;
+    margin-right: -5%;
+}
+.line{
+    width: 85%;
+    height: 2%;
+    margin-top: 12%;
+    margin-left: 1%;
+    position: absolute;
+    border-radius: 5rem;
+    background-color: white;
+}
+.bitHuntersLogo{
+    width: 25%;
+    margin-top: 15%;
+    margin-left: 10%;
+}
